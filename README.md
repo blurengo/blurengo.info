@@ -1,2 +1,0 @@
-# blurengo.info
-website
